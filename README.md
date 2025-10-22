@@ -42,3 +42,10 @@ Jobs like admin, blue-collar, and technician show higher personal loan applicati
 Default on loans is more common in specific job categories.
 
 Economic indicators like Employment Variation & Consumer Confidence impact subscription decisions.
+![Loan Distribution](loan_distribution1.png)
+![Loan Distribution](loan_distribution2.png)
+![Loan Distribution](loan_distribution3.png)
+![Loan Distribution](loan_distribution4.png)
+![Loan Distribution](loan_distribution5.png)
+![Loan Distribution](loan_distribution6.png)
+![Loan Distribution](loan_distribution7.png)
